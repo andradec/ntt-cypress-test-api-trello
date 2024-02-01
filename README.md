@@ -49,5 +49,3 @@ Takes screenshots on test failure and stores them in the "cypress/reports/screen
 Records videos of test runs and saves them in the "cypress/reports/videos" folder.
 
 
-# Mental Mind:
-
