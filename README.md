@@ -47,3 +47,7 @@ Uses Cypress for end-to-end testing.
 Base URL for API requests: https://api.trello.com/1
 Takes screenshots on test failure and stores them in the "cypress/reports/screenshots" folder.
 Records videos of test runs and saves them in the "cypress/reports/videos" folder.
+
+
+# Mental Mind:
+
